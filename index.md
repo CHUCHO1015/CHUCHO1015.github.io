@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## HOLA BIENVENIDO MI NOMBRE ES JESUS 
 
-You can use the [editor on GitHub](https://github.com/CHUCHO1015/CHUCHO1015.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+hOLA!! MI NOMBRE ES JESUS  EFRAIN ESCALONA MARCOS , SOY ESTUDIANTE DE 6TO SEMESTRE DE BACHILLERATO, ESTUDIO EN EL CETIS 32 JOSE VASCONSELOS, ACTUALMENTE ESTOY ESTUDIANDO LA CARRERA DE OFIMATICA Y EN UN FUTURO PIENSO EN ESTUDIAR LA CARRERA DE  INGENIERIA EN SISTEMAS COMPUTACIONALES
 
 ### Markdown
 
